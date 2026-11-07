@@ -21,6 +21,13 @@
 </div>
 
 ---
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/DipanwitaSingha/AyurSetu-Agentic-RAG/main/docs/Robot%E2%80%99s%20Neon%20GitHub%20Introduction.gif"
+    width="420"
+    alt="My animated robot introduction"
+  />
+</div>
 
 ## 👩‍💻 ABOUT ME | THE DEVELOPER BEHIND THE CODE
 
