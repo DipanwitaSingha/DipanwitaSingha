@@ -136,7 +136,7 @@ print(developer.mission())
 | UI/UX | Figma |
 | AI & ML | Artificial Intelligence, Machine Learning |
 | Databases | MySQL, MongoDB, Oracle |
-| DevOps | Currently learning |
+| DevOps | Azure , AWS , Kubernetes |
 | Tools | Git, GitHub, Docker |
 
 ---
