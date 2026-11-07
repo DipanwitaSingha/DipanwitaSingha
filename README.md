@@ -166,27 +166,54 @@ I believe the best way to learn software engineering is by building real-world a
 
 ## 📊 GITHUB COMMAND CENTER
 
+<h2 align="center">⚡ Git Command Center</h2>
+
+```mermaid
+flowchart TD
+    A["💻 Local Development"] --> B["git status"]
+    B --> C["git add ."]
+    C --> D["git commit -m 'Your message'"]
+    D --> E["git pull --rebase origin main"]
+    E --> F["git push origin main"]
+    F --> G["☁️ GitHub Repository"]
+    G --> H["⚙️ GitHub Actions"]
+    H --> I["🚀 Deployment"]
+    I --> J["🌐 Live Application"]
+
+    style A fill:#1e293b,color:#fff,stroke:#38bdf8
+    style G fill:#312e81,color:#fff,stroke:#818cf8
+    style H fill:#164e63,color:#fff,stroke:#22d3ee
+    style I fill:#14532d,color:#fff,stroke:#4ade80
+    style J fill:#3f1d2e,color:#fff,stroke:#f472b6
+```
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+| Command | Purpose |
+|:---|:---|
+| `git init` | Initialize repository |
+| `git clone` | Clone a repository |
+| `git status` | Check file status |
+| `git add .` | Stage changes |
+| `git commit` | Save changes |
+| `git pull` | Fetch and merge updates |
+| `git push` | Upload changes to GitHub |
+| `git log` | View commit history |
 
 </div>
 
 ### 🐍 My Contribution Journey
 
+<h2 align="center">📈 My Contribution Journey</h2>
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DipanwitaSingha&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </div>
 
----
 
 ## 🎯 CURRENTLY EXPLORING | NEXT-GEN TECHNOLOGY
 
