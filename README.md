@@ -22,7 +22,7 @@
 </div>
 
 ---
-                                                           🧬CODED INTO EXISTENCE
+                                                           **🧬CODED INTO EXISTENCE**
 Every coder has a plot twist. Mine started with curiosity and a questionable relationship with errors & 🐛💻. 
 My journey is all about learning, experimenting, building via technology. Turning random into real-world solutions, one line of code & one error at a time. So far the time loop has produced documentations of learning procedures, Agentic RAG system for IP address, a loan approval system, Learning guide model for students. Different ideas, same mindset with a problem solving ideology
 
