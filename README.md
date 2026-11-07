@@ -13,14 +13,16 @@
 
 **Turning curiosity into code and ideas into innovation.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DipanwitaSingha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanwita-singha-979a30380)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dipa39137)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipanwitasingha673@gmail.com)
 
+
 </div>
 
 ---
+                                                               🧬CODED INTO EXISTENCE
 Every coder has a plot twist. Mine started with curiosity and a questionable relationship with errors & 🐛💻. 
 My journey is all about learning, experimenting, building via technology. Turning random into real-world solutions, one line of code & one error at a time. So far the time loop has produced documentations of learning procedures, Agentic RAG system for IP address, a loan approval system, Learning guide model for students. Different ideas, same mindset with a problem solving ideology
 
