@@ -260,6 +260,36 @@ flowchart TD
 
 ---
 
+
+<!-- 🕷️ GITHUB ACTIVITY & CONSISTENCY -->
+
+<h2 align="center">🕸️ THE ART OF CONSISTENCY</h2>
+<p align="center">
+  <i>Not just writing code. Showing up, debugging, building and evolving.</i>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DipanwitaSingha&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=FF4D6D&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=888888" width="90%" alt="GitHub Contribution Streak"/>
+</p>
+
+<h3 align="center">⚡ MY CONTRIBUTION ACTIVITY</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DipanwitaSingha&bg_color=0d1117&color=c9d1d9&line=9D4EDD&point=FF4D6D&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+<h3 align="center">📊 MY GITHUB STATISTICS</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DipanwitaSingha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=FF4D6D" height="180" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <sub>Consistency is built one commit at a time. 🖤</sub>
+</p>
+
+
+
 ## 🤝 LET'S CONNECT | BUILD SOMETHING AMAZING
 
 <div align="center">
